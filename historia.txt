@@ -1,2 +1,3 @@
 Hola a todos este es un archivo de prueba para git XD.
 Mi nombre es Erick castro.
+vivo en Guatemala -chimaltenango-
