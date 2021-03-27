@@ -1,6 +1,13 @@
-body{
-    color:fuchsia;
-    text-align: center;
-    font-family: "Arial";
-
+body {
+  color: fuchsia;
+  text-align: center;
+  font-family: "Arial";
+}
+#contenedor {
+  width: 70%;
+  padding: 1cm;
+  margin: 0 auto;
+}
+#informacion h1{
+  font-size: 20px;
 }
