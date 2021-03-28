@@ -1,6 +1,6 @@
 body {
-  color: fuchsia;
-  text-align: center;
+  color: black;
+  text-align: left;
   font-family: "Arial";
   font-size: 16px;
   margin: 0;
@@ -12,4 +12,15 @@ body {
   margin: 0 auto;
   border: 1px solid rgb(182, 179, 179);
 }
+#cabecera{
+  color: azure;
+  text-align: left;
+  background-color: blueviolet;
+  font-size: 20px;
+  font-weight: bold ;
+}
+#informacion h1{
+  text-align: center;
+}
+
 
