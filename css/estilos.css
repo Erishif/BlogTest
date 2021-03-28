@@ -2,12 +2,14 @@ body {
   color: fuchsia;
   text-align: center;
   font-family: "Arial";
+  font-size: 16px;
+  margin: 0;
+  padding: 0  ;
 }
 #contenedor {
   width: 70%;
   padding: 1cm;
   margin: 0 auto;
+  border: 1px solid rgb(182, 179, 179);
 }
-#informacion h1{
-  font-size: 20px;
-}
+
