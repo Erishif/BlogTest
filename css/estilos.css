@@ -37,5 +37,11 @@ body {
 
 #informacion h1{
   text-align: center;
-  
+
+}
+#footer{
+  text-align: center;
+  color:white;
+  background-color: black;
+  padding: 0.8em;
 }
