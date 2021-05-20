@@ -39,6 +39,14 @@ body {
   text-align: center;
 
 }
+#fontimg{
+  width: 850px;
+  height:480px;
+  display: block;
+  margin:auto;
+  margin-bottom: 10px;
+}
+
 #footer{
   text-align: center;
   color:white;
